@@ -1,0 +1,36 @@
+{
+  "name": "tagify-react-wrapper",
+  "version": "1.0.0",
+  "description": "Demo for Tagify React wrapper \n\nhttps://github.com/yairEO/tagify",
+  "keywords": [
+    "tags component",
+    "react",
+    "tagify",
+    "input"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@yaireo/dragsort": "1.2.0",
+    "@yaireo/tagify": "4.5.0",
+    "@yaireo/ui-switch": "1.0.5",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "node-sass": "*"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
